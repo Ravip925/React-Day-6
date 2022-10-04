@@ -1,0 +1,54 @@
+body{
+    margin: 2vw 4vw 2vw 4vw;
+    background-color: rgb(255, 234, 234);
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+}
+h2{
+    color: rgb(198, 22, 22);
+}
+h5{
+    font-size: 1em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+li{
+    font-weight: bold;
+}
+.div1{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: rgb(144, 203, 255);
+    padding: 2vw;
+}
+.div2{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: rgb(157, 255, 144);
+    padding: 2vw;
+}
+.div3{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: rgb(237, 255, 144);
+    padding: 2vw;
+}
+.div4{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: rgb(255, 194, 73);
+    padding: 2vw;
+}
+.div5{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: rgb(253, 164, 200);
+    padding: 2vw;
+}
+.div6{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: rgb(139, 215, 145);
+    padding: 2vw;
+}
+.div7{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: rgb(255, 131, 131);
+    padding: 2vw;
+}
